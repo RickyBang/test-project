@@ -1,2 +1,3 @@
 # test-project
-Thas is our first change.
+That is our first change.
+Our second change.
